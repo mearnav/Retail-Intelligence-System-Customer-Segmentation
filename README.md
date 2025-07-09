@@ -60,7 +60,8 @@ retail-customer-segmentation/
 ```
 </pre>
 
-##Due to GitHub's file size limitations, the full dataset files are hosted externally:
+
+## Due to GitHub's file size limitations, the full dataset files are hosted externally:
 
 - [Download online_retail_II.csv (Google Drive)]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/file/d/1g5ij4Q_E1VgY6KKB6IlvlNJD-RJFOLNb/view?usp=sharing))
 - [Download cleaned_retail_data.csv (Google Drive)]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/file/d/14E1EbjEUyLp9bOxjvdKxYTFc31hmNi-S/view?usp=drive_link))
