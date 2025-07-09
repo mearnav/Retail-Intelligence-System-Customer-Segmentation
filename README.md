@@ -29,21 +29,25 @@ This dataset contains transactions from a UK-based online retailer between 2009 
 
 ## Project Structure
 
+<pre lang="markdown">
+```
 retail-customer-segmentation/
 │
-
 ├── data/
-│   └── online_retail_II.csv
+│   └── online_retail_II.csv (link externally)
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_customer_segmentation.ipynb
 │
 ├── output/
-│   └── rfm_customer_segments.csv
+│   ├── rfm_customer_segments.csv
 │   └── rfm_customer_segments_tagged.csv
 │
 └── README.md
+```
+</pre>
+
 
 ## Key Steps
 
