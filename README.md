@@ -34,20 +34,36 @@ This dataset contains transactions from a UK-based online retailer between 2009 
 retail-customer-segmentation/
 │
 ├── data/
-│   └── online_retail_II.csv (link externally)
+|   ├── online_retail_II.csv (link externally)
+|   ├── cleaned_retail_data.csv (link externally)
+|   ├── rfm_customer_segments.csv
+│   └── segmented_customers.csv
+|   
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_customer_segmentation.ipynb
 │
 ├── output/
-│   ├── rfm_customer_segments.csv
-│   └── rfm_customer_segments_tagged.csv
+│   ├── Behavioral_Trend plot
+|   ├── Clustering plot
+|   ├── Customer Distribution Across Clusters plot
+|   ├── Elboe_Curve plot
+│   └── Bussiness_Insights plot
 │
+|
+├── requirements
+|
+|
+| 
 └── README.md
 ```
 </pre>
 
+##Due to GitHub's file size limitations, the full dataset files are hosted externally:
+
+- [Download online_retail_II.csv (Google Drive)]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/file/d/1g5ij4Q_E1VgY6KKB6IlvlNJD-RJFOLNb/view?usp=sharing))
+- [Download cleaned_retail_data.csv (Google Drive)]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/file/d/14E1EbjEUyLp9bOxjvdKxYTFc31hmNi-S/view?usp=drive_link))
 
 ## Key Steps
 
